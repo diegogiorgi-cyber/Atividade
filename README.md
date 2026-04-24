@@ -1,6 +1,7 @@
 # WIKI-LINUX-Guia-FACULDADE
 # Aluno: 
 Artur Trindade Saraiva Da Silva RGM:11261105700
+Diego Giorgi RGM:11261105403
 
   # 📘 Wiki de Comandos Linux
 
